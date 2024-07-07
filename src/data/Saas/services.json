@@ -1,0 +1,52 @@
+[
+  {
+    "img": "/assets/img/icons/serv_icons/18.png",
+    "info": "Website Design and Development",
+    "text": "Create websites that captivate visitors instantly. Ensure speed and modern appeal."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/22.png",
+    "info": "Cloud Services",
+    "text": "Provide secure cloud solutions including servers with static IP and robust data storage."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/23.png",
+    "info": "Android Application Development",
+    "text": "Create scalable Android applications that enhance user engagement."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/24.png",
+    "info": "iOS Application Development",
+    "text": "Build intuitive iOS applications to expand your user base."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/25.png",
+    "info": "Data Visualization",
+    "text": "Transform complex data into insightful visualizations for informed decision-making."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/26.png",
+    "info": "Automation using Python",
+    "text": "Automate tasks and streamline workflows with Python-based solutions."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/27.png",
+    "info": "Standalone Software Development",
+    "text": "Develop customized standalone software to address specific business needs."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/28.png",
+    "info": "IT Infrastructure Support",
+    "text": "Provide comprehensive IT infrastructure support and management services."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/29.png",
+    "info": "Architecture Design Support",
+    "text": "Offer expert architecture design support for scalable and resilient IT solutions."
+  },
+  {
+    "img": "/assets/img/icons/serv_icons/30.png",
+    "info": "AI-based Solutions",
+    "text": "Implement AI-driven solutions to optimize processes and gain competitive advantage."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "picture": "/assets/img/team/team_shap.png",
+    "name": "Prabhakarn",
+    "position": "Founder"
+  },
+  {
+    "picture": "/assets/img/team/team_shap.png",
+    "name": "Govardhan",
+    "position": "CTO"
+  },
+  {
+    "picture": "/assets/img/team/team_shap.png",
+    "name": "Dhanraj",
+    "position": "CEO"
+  },
+  {
+    "picture": "/assets/img/team/team_shap.png",
+    "name": "Ram Subramnain",
+    "position": "Marketing Lead"
+  }
+]

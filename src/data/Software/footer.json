@@ -1,0 +1,19 @@
+{
+  "phone": "(+91) 99522 22313",
+  "email": "info@rootxwire.com",
+  "address": "NO: 3, IYAPPAN KOVIL STREET,PERMUAL KOVIL VIA,VELAPADI,VELLORE-1, 632001",
+
+  "usefulLinks": [
+    { "link": "/", "title": "Home" },
+    { "link": "/page-about-5", "title": "About RootXwire" },
+    { "link": "/page-about-5", "title": "How It Works" },
+    { "link": "/page-contact-5", "title": "Contact" }
+  ],
+  "services": [
+    { "link": "/page-services-5", "title": "It Consultation" },
+    { "link": "/page-services-5", "title": "Software Development" },
+    { "link": "/page-services-5", "title": "AI Machine Learning" },
+    { "link": "/page-services-5", "title": "Data Security" },
+    { "link": "/page-services-5", "title": "Cloud Services" }
+  ]
+}

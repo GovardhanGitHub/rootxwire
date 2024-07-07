@@ -1,0 +1,28 @@
+{
+  "numbers": [
+    {
+      "value": "10",
+      "title": "Projects done"
+    },
+    {
+      "value": "10",
+      "title": "satisfied clients"
+    },
+
+    {
+      "value": "10",
+      "title": "years of experience"
+    }
+  ],
+  "features": [
+    "Latest IT Solutions & Integration With Blockchain",
+    "Over 10+ Payment Gateways Support",
+    "AI Machine & Deep Learning",
+    "Dedicated Support 24/7",
+    "Cutting-edge Web Development",
+    "Seamless Automation Solutions",
+    "Android and iOS App Development",
+    "IoT (Internet of Things) Innovations",
+    "Advanced AI Applications"
+  ]
+}
