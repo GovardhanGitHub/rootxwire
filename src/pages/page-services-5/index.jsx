@@ -12,8 +12,6 @@ import About from 'components/Saas/About';
 import Testimonials from 'components/Saas/Testimonials';
 import Pricing from 'components/Saas/Pricing';
 // import Footer from 'components/software/Footer';
-import Footer from '../../components/software/Footer'; // Adjust the relative path as needed
-
 
 const PageServices5 = () => {
   const navbarRef = useRef(null);
@@ -33,7 +31,7 @@ const PageServices5 = () => {
         {/* <Testimonials /> */}
         {/* <Pricing /> */}
       </main>
-      <Footer  />
+      {/* <Footer noWave /> */}
     </MainLayout>
   )
 }
