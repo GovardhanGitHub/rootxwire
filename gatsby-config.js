@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Iteck',
-    description: 'Iteck - Multi-Purpose React.js Gatsby Template',
-    author: 'ThemesCamp'
+    title: 'RootXwire',
+    description: 'RootXwire - Multi-Purpose React.js Gatsby Template',
+    author: 'RootXwire'
   },
   plugins: [
     'gatsby-plugin-resolve-src',
